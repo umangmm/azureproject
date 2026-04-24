@@ -1,0 +1,15 @@
+{
+	"name": "datafactoryumang",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e398be35-421b-4fc2-9e58-90d3086d34bd",
+		"tenantId": "0b4ad600-e37a-41ae-9757-0625f46019fb"
+	}
+}
