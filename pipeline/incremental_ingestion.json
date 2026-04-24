@@ -1,9 +1,9 @@
 {
-	"name": "pipeline1",
+	"name": "incremental_ingestion",
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy data1",
+				"name": "azure_sql",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
