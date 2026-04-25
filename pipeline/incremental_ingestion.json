@@ -312,9 +312,7 @@
 						"activity": "IfIncrementalData",
 						"dependencyConditions": [
 							"Failed",
-							"Skipped",
-							"Succeeded",
-							"Completed"
+							"Succeeded"
 						]
 					}
 				],
